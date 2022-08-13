@@ -9,3 +9,6 @@ cbatticon
 
 # vim files
 *.swp
+
+# visual studio code cache files
+.vscode
